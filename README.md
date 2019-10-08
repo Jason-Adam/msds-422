@@ -1,6 +1,6 @@
 # MSDS-422 Practical Machine Learning
 ## Repo for weekly projects in MSDS-422 at Northwestern University
-* Assignment 2: Supervised Learning for Classification  
+* [Supervised Learning for Classification](homework_assignment_01.ipynb)  
 Bayes Classification, Logistic Regression, Cross-Validation
 * Assignment 3: Supervised Learning for Regression  
 Linear Regression, Regularized Regression Methods (i.e. Ridge, Lasso, Elastic-Net)
